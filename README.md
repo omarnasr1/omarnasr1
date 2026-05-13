@@ -39,22 +39,16 @@
 
 ## About Me
 - 🎓 Strong foundation in **Computer Science**  
-- ⚡ Experienced in building **real-time and batch data pipelines**  
-- 🛠 Skilled with **Python, SQL, Spark, and Kafka**  
+- ⚡ Experienced in building **batch data pipelines**  
+- 🛠 Skilled with **Python, SQL, Spark, and Airflow**  
 - 📦 Comfortable with **Docker** for containerized deployments  
 - 🚀 Passionate about **data accuracy, scalability, and automation**  
 
 
 
 
-<!-- links to social media icons -->
 
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- links to your social media accounts -->
-
-[3]: https://www.linkedin.com/in/mohammed-asem/
+[3]: https://www.linkedin.com/in/omar-nasr-242b39241/
 
 
 <!-- Resources -->
