@@ -5,7 +5,7 @@
   ### Databases
   ![](https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
   ![](https://img.shields.io/badge/Database-SQL_Server-darkblue?style=flat&logo=microsoftsqlserver&logoColor=white)
-  ![](https://img.shields.io/badge/Database-NoSQL-red?style=flat&logo=Cassandra&logoColor=white)
+  ![](https://img.shields.io/badge/Database-Cassandra-red?style=flat&logo=Cassandra&logoColor=white)
   
   <!-- ======================= Programming & Query Languages ======================= -->
   ### Programming & Query Languages
@@ -15,7 +15,7 @@
 
   <!-- ======================= Workflow Orchestration ======================= -->
   ### Workflow Orchestration
-  ![](https://img.shields.io/badge/Workflow-SSIS-lightorange?style=flat&logo=apacheairflow&logoColor=white)
+  ![](https://img.shields.io/badge/Workflow-Apache_Airflow-lightorange?style=flat&logo=apacheairflow&logoColor=white)
   ![](https://img.shields.io/badge/Workflow-SSIS-lightorange?style=flat&logo=apacheairflow&logoColor=white)
 
   
